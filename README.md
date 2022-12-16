@@ -1,16 +1,14 @@
-### Hi there 👋
+# About Me: _Jack Sampson_
 
-<!--
-**Jcps/jcps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Lead Salesforce Consultant at [Atrium](https://atrium.ai/)
+- [Jack@Sampson.tech](mailto:Jack@Sampson.tech)
+- Live in Fishers, IN
 
-Here are some ideas to get you started:
+## Find me elsewhere:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://linkedin.com/in/jcpsampson)
+- [GitHub](https://github.com/jcps)
+- [Instagram](https://www.instagram.com/_jcps/)
+- [Website](https://jacksampson.info/)
+- [Mastodon](https://mastodon.world/@jcps)
+- [Micro.Blog](https://micro.blog/jcps)
