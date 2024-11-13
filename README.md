@@ -1,6 +1,6 @@
 # About Me: _Jack Sampson_
 
-- Lead Salesforce Consultant at [Atrium](https://atrium.ai/)
+- Salesforce Architect at [Atrium](https://atrium.ai/)
 - [Jack@Sampson.tech](mailto:Jack@Sampson.tech)
 - Live in Fishers, IN
 
